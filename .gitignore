@@ -21,7 +21,8 @@ ENV/
 *~
 
 # Data files (add your data files here)
-data/
+data/*
+!data/README.md
 *.csv
 *.zip
 
