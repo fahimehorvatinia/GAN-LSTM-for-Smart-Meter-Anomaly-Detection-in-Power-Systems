@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "GAN-LSTM for Smart Meter Anomaly Detection in Power Systems"
+title: "Energy Anomaly Detection using GAN-LSTM"
 version: "1.0.0"
 doi: ""
 date-released: ""

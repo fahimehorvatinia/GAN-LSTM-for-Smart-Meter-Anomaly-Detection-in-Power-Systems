@@ -1,4 +1,4 @@
-# GAN-LSTM for Smart Meter Anomaly Detection in Power Systems
+# Energy Anomaly Detection using GAN-LSTM
 
 This repository contains the implementation of a GAN-LSTM framework for anomaly detection in building-level electricity consumption data.
 
