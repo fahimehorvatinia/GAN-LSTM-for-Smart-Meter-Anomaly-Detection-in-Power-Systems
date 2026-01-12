@@ -1,26 +1,10 @@
 # GAN-LSTM for Smart Meter Anomaly Detection in Power Systems
 
-This repository contains the implementation of a GAN-LSTM framework for anomaly detection in building-level electricity consumption data, as described in our paper:
-
-**"Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems"**
-
-Fahimeh Orvati Nia*, Shima Salehi*, Joshua Peeples*  
-*Department of Electrical and Computer Engineering, Texas A&M University, College Station, TX, USA*
+This repository contains the implementation of a GAN-LSTM framework for anomaly detection in building-level electricity consumption data.
 
 ## Overview
 
 This project implements a GAN-based approach for detecting anomalies in smart meter readings using the Large-scale Energy Anomaly Detection (LEAD) dataset. The model uses LSTM-based Generator and Discriminator networks to learn normal consumption patterns and identify anomalous behavior in power distribution systems.
-
-### Key Results
-
-On the LEAD dataset (206 test buildings, ~30,076 test windows), our GAN-LSTM model achieves:
-- **Accuracy**: 89.73%
-- **Precision**: 0.88
-- **Recall**: 0.89
-- **F1-Score**: 0.89
-- **ROC AUC**: 0.83
-
-These results significantly outperform baseline methods including Isolation Forest, One-Class SVM, LSTM Autoencoder, Attention LSTM Autoencoder, Variational Autoencoder, and TAnoGAN.
 
 ## Features
 
@@ -234,8 +218,7 @@ This framework can support utilities and grid operators in:
 
 ## Contact
 
-- **Fahimeh Orvati Nia**: fahimehorvatinia@tamu.edu
-- **GitHub**: [@fahimehorvatinia](https://github.com/fahimehorvatinia)
+[Contact information will be added]
 
 ## Acknowledgments
 

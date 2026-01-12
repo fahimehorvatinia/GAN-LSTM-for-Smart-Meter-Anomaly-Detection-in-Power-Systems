@@ -1,16 +1,5 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-authors:
-  - family-names: "Orvati Nia"
-    given-names: "Fahimeh"
-    email: "fahimehorvatinia@tamu.edu"
-    affiliation: "Department of Electrical and Computer Engineering, Texas A&M University"
-  - family-names: "Salehi"
-    given-names: "Shima"
-    affiliation: "Department of Electrical and Computer Engineering, Texas A&M University"
-  - family-names: "Peeples"
-    given-names: "Joshua"
-    affiliation: "Department of Electrical and Computer Engineering, Texas A&M University"
 title: "GAN-LSTM for Smart Meter Anomaly Detection in Power Systems"
 version: "1.0.0"
 doi: ""
@@ -25,4 +14,4 @@ keywords:
   - "smart grid"
   - "power systems"
   - "energy consumption"
-abstract: "This repository contains the implementation of a GAN-LSTM framework for anomaly detection in building-level electricity consumption data. The model achieves 89.73% accuracy, 0.88 precision, 0.89 recall, and F1-score of 0.89 on the LEAD dataset, significantly outperforming baseline methods."
+abstract: "This repository contains the implementation of a GAN-LSTM framework for anomaly detection in building-level electricity consumption data."
