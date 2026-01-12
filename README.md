@@ -186,17 +186,7 @@ The model reports:
 
 ## Citation
 
-If you use this code or find it helpful, please cite our paper:
-
-```bibtex
-@inproceedings{orvatinia2025ganlstm,
-  title={Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems},
-  author={Orvati Nia, Fahimeh and Salehi, Shima and Peeples, Joshua},
-  booktitle={[Conference/Journal Name]},
-  year={2025},
-  organization={[Publisher]}
-}
-```
+Citation information will be added upon publication.
 
 ### Related Work
 
