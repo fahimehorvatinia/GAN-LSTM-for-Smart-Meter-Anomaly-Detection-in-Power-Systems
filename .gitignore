@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data files (add your data files here)
+data/
+*.csv
+*.zip
+
+# Results and outputs
+results/
+*.pth
+*.pkl
+*.npz
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
