@@ -39,8 +39,8 @@ energy-anomaly-detection-gan/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/fahimehorvatinia/GAN-LSTM-for-Smart-Meter-Anomaly-Detection-in-Power-Systems.git
-cd GAN-LSTM-for-Smart-Meter-Anomaly-Detection-in-Power-Systems
+git clone https://github.com/fahimehorvatinia/GAN-LSTM-Smart-Meter-Anomaly-Detection.git
+cd GAN-LSTM-Smart-Meter-Anomaly-Detection
 ```
 
 2. Install dependencies:
