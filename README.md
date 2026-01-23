@@ -39,8 +39,8 @@ GAN-LSTM-Anomaly-Detection/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/fahimehorvatinia/GAN-LSTM-Smart-Meter-Anomaly-Detection.git
-cd GAN-LSTM-Smart-Meter-Anomaly-Detection
+git clone https://github.com/fahimehorvatinia/GAN-LSTM-Anomaly-Detection.git
+cd GAN-LSTM-Anomaly-Detection
 ```
 
 2. Install dependencies:
