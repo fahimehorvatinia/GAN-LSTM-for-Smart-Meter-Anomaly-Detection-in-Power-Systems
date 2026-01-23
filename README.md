@@ -170,20 +170,14 @@ The model reports:
 
 ## Citation
 
-Citation information will be added upon publication.
-
-### Related Work
-
-This implementation is inspired by and builds upon TAnoGAN:
 
 ```bibtex
-@inproceedings{bashar2020tanogan,
-  title={TAnoGAN: Time Series Anomaly Detection with Generative Adversarial Networks},
-  author={Bashar, Md Abul and Nayak, Richi},
-  booktitle={2020 IEEE Symposium Series on Computational Intelligence (SSCI)},
-  pages={1778--1785},
-  year={2020},
-  organization={IEEE}
+@article{orvati2026evaluating,
+  title={Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems},
+  author={Orvati Nia, Fahimeh and Salehi, Shima and Peeples, Joshua},
+  journal={arXiv e-prints},
+  pages={arXiv--2601},
+  year={2026}
 }
 ```
 
