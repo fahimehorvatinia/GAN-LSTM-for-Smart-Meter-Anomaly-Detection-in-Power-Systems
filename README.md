@@ -18,7 +18,7 @@ This project implements a GAN-based approach for detecting anomalies in smart me
 ## Project Structure
 
 ```
-energy-anomaly-detection-gan/
+GAN-LSTM-Anomaly-Detection/
 ├── src/
 │   ├── energy_dataset.py          # Dataset loader for LEAD energy data
 │   ├── run_tanogan.py              # Main training and evaluation script
