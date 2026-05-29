@@ -184,7 +184,7 @@ The model reports:
 ## Dataset
 
 This work uses the **Large-scale Energy Anomaly Detection (LEAD) dataset**:
-- **Source**: [Kaggle - Large-scale Energy Anomaly Detection (LEAD)](https://www.kaggle.com/datasets/lead-dataset)
+- **Source**: [Kaggle - Large-scale Energy Anomaly Detection (LEAD)](https://www.kaggle.com/competitions/energy-anomaly-detection)
 - **Size**: 406 buildings, 1 year of hourly data (8,760 hours per building)
 - **Training**: 200 buildings
 - **Testing**: 206 buildings
